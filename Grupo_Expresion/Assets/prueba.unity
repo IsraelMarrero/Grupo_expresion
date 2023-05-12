@@ -724,6 +724,20 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 2430701282092587283, guid: e3d267feb983afa468b59b0bd7995eda, type: 3}
+--- !u!1 &1510712935 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5126527961139664765, guid: 035bf1ba97d19214580cfe6f5a29fdc3, type: 3}
+  m_PrefabInstance: {fileID: 493400945}
+  m_PrefabAsset: {fileID: 0}
+--- !u!45 &1510712940
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1510712935}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 01f4eb1c73693428d923f1520032e7f9, type: 2}
 --- !u!1 &1538519810 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -2994543818969730666, guid: e3d267feb983afa468b59b0bd7995eda, type: 3}

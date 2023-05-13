@@ -3,7 +3,12 @@ guid: 98c8cbb08784a40a2acf316ecd37ec2e
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tabaiba
+    second: {fileID: 2100000, guid: 844cd71b9665e411f8d4bb94971cb60d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

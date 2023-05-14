@@ -249,7 +249,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &268759737 stripped
 GameObject:
@@ -441,6 +441,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 035bf1ba97d19214580cfe6f5a29fdc3, type: 3}
+--- !u!1001 &687855530
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 442.81897
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.730783
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 504.61856
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6261228016472037209, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6570194500339767077, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
+      propertyPath: m_Name
+      value: MESH_AF08_DracaenaDraco_M
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0cba7b77b4adadb4b83e5826074f14ce, type: 3}
 --- !u!1 &696418437 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4557866554011267092, guid: e3d267feb983afa468b59b0bd7995eda, type: 3}
@@ -553,7 +610,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!114 &705507996
 MonoBehaviour:
@@ -787,7 +844,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1507636620937791777, guid: 7097ba7ba649e1f41bba232312bdcbd8, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1507636620937791777, guid: 7097ba7ba649e1f41bba232312bdcbd8, type: 3}
       propertyPath: m_LocalScale.x
@@ -868,7 +925,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: f5bbda9671e89fc4aab4ee48dbd605e1, type: 2}
     - target: {fileID: -8679921383154817045, guid: e3d267feb983afa468b59b0bd7995eda, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e3d267feb983afa468b59b0bd7995eda, type: 3}
       propertyPath: m_LocalPosition.x
